@@ -1,0 +1,1 @@
+Insert into "test"."public"."employee" ("firstname","lastname","age") values ('FName','Lname',56)
